@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node src/main.ts"
+  },
+  "name": "haoshiyou-bot",
+  "description": "[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/wechaty/wechaty)",
+  "version": "1.0.1",
+  "main": "main.js",
+  "devDependencies": {},
+  "keywords": [
+    "haoshiyou",
+    "haoshiyou.org",
+    "chatbot",
+    "wechaty",
+    "wechat",
+    "rent",
+    "house",
+    "roommate"
+  ],
+  "author": "Zainan Victor Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinbenlv/haoshiyou-bot/issues"
+  },
+  "homepage": "https://github.com/xinbenlv/haoshiyou-bot#readme"
+}
