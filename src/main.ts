@@ -17,7 +17,7 @@ let main= async function() {
 // cloudinary.config({
 //   cloud_name: 'xinbenlv-dev',
 //   api_key: '864183515878769',
-//   api_secret: '7NzbW-6fmp651h3iBaasOTvB9RI'
+//   api_secret: process.env.CLOUDINARY_SECRET
 // });
   // let nextCursor = 0;
   let responses = null;
